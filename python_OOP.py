@@ -38,6 +38,6 @@ def main():
         print(f"Power: {hero.use_power()}")  # Polymorphism!
         print(f"Movement: {hero.move()}")    # Each has unique movement
 
-# Run the program
+
 if __name__ == "__main__":
     main()
